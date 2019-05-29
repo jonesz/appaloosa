@@ -1,0 +1,5 @@
+TODO:
+
+1. base interpreter, with whatever opcodes are needed.
+2. profiling runtime.
+3. partial evaluating-like JIT.
